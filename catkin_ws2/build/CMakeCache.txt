@@ -515,7 +515,8 @@ talk_pkg_DIR:PATH=talk_pkg_DIR-NOTFOUND
 //Value Computed by CMake
 talker_pkg_BINARY_DIR:STATIC=/home/user/catkin_ws2/build/talker_pkg
 
-talker_pkg_DIR:PATH=
+//The directory containing a CMake configuration file for talker_pkg.
+talker_pkg_DIR:PATH=/home/user/catkin_ws2/devel/share/talker_pkg/cmake
 
 //Value Computed by CMake
 talker_pkg_SOURCE_DIR:STATIC=/home/user/catkin_ws2/src/talker_pkg
